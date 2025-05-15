@@ -105,7 +105,7 @@ The dashboard includes a Refresh button implemented with a simple macro that upd
 
 ## Documentation
 - [Complete User Guide](HOW_TO_USE.md) - Detailed instructions for using this dashboard
-- [Dashboard PDF View](Sales_Dashboard_View.pdf) - Static PDF version of the dashboard for quick reference
+- [Dashboard PDF View](Sales_Dashboard_veiw.pdf) - Static PDF version of the dashboard for quick reference
 
 ## Files Included
 - `Sales_Dashboard.xlsx` - **it is a Microsoft Excel Macro-Enabled Worksheet file** and it is the complete Excel file with a dashboard and database
