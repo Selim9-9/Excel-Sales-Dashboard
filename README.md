@@ -14,7 +14,6 @@
 This repository contains a comprehensive interactive Sales Dashboard created in Microsoft Excel as part of completing the "Excel from Zero to Pro" course by instructor Abderrahmane Ahmidatou on Udemy. 
 The dashboard visualizes sales data from a retail electronics business operating across multiple regions in Africa and the Middle East.
 
-![Dashboard Overview](ScreenShots/dashboard1.JPG)
 ![Dashboard Overview](ScreenShots/dashboard2.JPG)
 
 ## Dashboard Components
@@ -63,7 +62,8 @@ The dashboard includes two powerful slicer controls that allow for dynamic data 
  **Region Slicer and Month Slicer**
    - Filter options: Horn of Africa, Levant, Middle East, North Africa
    - Filter options: All months from January to December
-   - ![Filters](ScreenShots/Filters.JPG)
+     
+   ![Filters](ScreenShots/Filters.JPG)
 
 ### Filter Impact on Dashboard Components
 
