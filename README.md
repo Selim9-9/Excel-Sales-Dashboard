@@ -14,6 +14,7 @@
 ## Project Overview
 This repository contains a comprehensive interactive Sales Dashboard created in Microsoft Excel.  
 The dashboard visualizes sales data from a retail electronics business operating across multiple regions in Africa and the Middle East.
+![Overview](ScreenShots/dashboard2.JPG)
 
 ## [Use the Dashboard](Sales%20Dashboard.xlsm)
 
