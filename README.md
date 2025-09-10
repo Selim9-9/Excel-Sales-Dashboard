@@ -18,7 +18,7 @@ The dashboard visualizes sales data from a retail electronics business operating
 
 ## [Use the Dashboard](Sales%20Dashboard.xlsm)
 
-![Use the Dashboard](Sales%20Dashboard.xlsm)
+![Use the Dashboard](Sales%20Dashboard.xlsm)  then click: Veiw Raw
 ## Dashboard Components
 
 ### Key Performance Indicators (KPIs)
